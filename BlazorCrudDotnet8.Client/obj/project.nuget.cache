@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fFp0ffN3NPInxs6JyuVY7HZnF5u9ngNSRdbDiWaf8/omYcNK4/ssdv+K6PjfgRM5s/dHQYtlVEDAei/0oxjR4A==",
+  "dgSpecHash": "lSLx4e2d+/c/+xBxlv/0QsGlo/69yacfOZQMK25Cg09Wd4xJAC83LO3aBEJQ1/9IYhNzORBkuvo/t+MwxeRqaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj",
+  "projectFilePath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eliezer Castro\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "C:\\Users\\Eliezer Castro\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",

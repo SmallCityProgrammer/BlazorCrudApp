@@ -17,6 +17,8 @@ namespace BlazorCrudDotnet8.Services
         }
         public async Task<List<Game>> GetAllGames()
         {
+            await Task.Delay(1000);
+
             var games = await _context.Games.ToListAsync();
             return games;
         }

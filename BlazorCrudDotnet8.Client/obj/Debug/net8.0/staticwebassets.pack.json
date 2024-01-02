@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\obj\\Debug\\net8.0\\compressed\\ts2lp669na.gz",
+      "Id": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\obj\\Debug\\net8.0\\compressed\\ts2lp669na.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\wwwroot\\appsettings.Development.json",
+      "Id": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },
     {
-      "Id": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\wwwroot\\appsettings.json",
+      "Id": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {

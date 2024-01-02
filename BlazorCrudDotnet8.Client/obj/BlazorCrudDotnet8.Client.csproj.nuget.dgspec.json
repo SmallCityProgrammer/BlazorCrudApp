@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj": {}
+    "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj": {
+    "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj",
         "projectName": "BlazorCrudDotnet8.Client",
-        "projectPath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj",
+        "projectPath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\BlazorCrudDotnet8.Client.csproj",
         "packagesPath": "C:\\Users\\Eliezer Castro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\obj\\",
+        "outputPath": "C:\\Users\\Eliezer Castro\\Desktop\\Cursos C#\\BlazorCrudDotnet8\\BlazorCrudDotnet8.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eliezer Castro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -35,11 +35,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
