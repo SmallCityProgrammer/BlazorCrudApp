@@ -1,6 +1,7 @@
 using BlazorCrudDotnet8.Client.Pages;
 using BlazorCrudDotnet8.Components;
 using BlazorCrudDotnet8.Data;
+using BlazorCrudDotnet8.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,8 @@ builder.Services.AddRazorComponents()
 
 builder.Services.AddDbContext<DataContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IGameService, GameService>();
 
 var app = builder.Build();
 
